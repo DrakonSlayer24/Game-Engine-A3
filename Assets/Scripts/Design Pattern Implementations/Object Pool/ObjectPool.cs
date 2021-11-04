@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//object pool based on: https://learn.unity.com/tutorial/introduction-to-object-pooling
 public class ObjectPool : MonoBehaviour
 {
     public static ObjectPool SharedInstance;
