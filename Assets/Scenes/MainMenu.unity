@@ -597,10 +597,12 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'A/D or arrow keys to move
 
+    K to shoot
+
     Space to jump
 
-    Kill enemies by hitting
-    them from above or below'
+    Kill
+    enemies by hitting them from above or below'
 --- !u!222 &383455211
 CanvasRenderer:
   m_ObjectHideFlags: 0
